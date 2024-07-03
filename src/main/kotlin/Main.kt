@@ -1,5 +1,5 @@
 package dev.alicar
 
-`fun main() {
+fun main() {
     println("Hello World!")
 }
