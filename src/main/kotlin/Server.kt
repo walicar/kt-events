@@ -1,7 +1,7 @@
-package dev.alicar
+package com.walicar
 
-import dev.alicar.events.Event
-import dev.alicar.events.EventManager
+import com.walicar.events.Event
+import com.walicar.events.EventManager
 
 class Server {
     val connectedClients : MutableSet<String> = mutableSetOf()

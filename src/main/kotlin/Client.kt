@@ -1,7 +1,7 @@
-package dev.alicar
+package com.walicar
 
-import dev.alicar.events.Event
-import dev.alicar.events.EventManager
+import com.walicar.events.Event
+import com.walicar.events.EventManager
 
 class Client(val name: String) {
     private var token = -1
@@ -19,5 +19,4 @@ class Client(val name: String) {
     fun getToken(): Int {
         return this.token
     }
-
 }

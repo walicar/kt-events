@@ -1,4 +1,4 @@
-package dev.alicar
+package com.walicar
 
 fun main() {
     val server = Server()

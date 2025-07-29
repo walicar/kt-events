@@ -1,4 +1,4 @@
-package dev.alicar.events
+package com.walicar.events
 
 typealias Listener = (Event) -> Unit
 
